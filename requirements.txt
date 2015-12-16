@@ -1,1 +1,1 @@
-expressly==1.0.0
+expressly==2.0.1
